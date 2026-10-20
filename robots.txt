@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bondlee.fun/sitemap.xml
